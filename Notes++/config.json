@@ -1,0 +1,5 @@
+{
+  // Set this to true if you want extremely secure hashing when saving files
+  // It first converts the text to binary then to hexadecimal and then hashes it
+  "extraSecure": true
+}
